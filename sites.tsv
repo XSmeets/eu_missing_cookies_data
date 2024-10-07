@@ -1,0 +1,6 @@
+	rank	domain	news	government	ecommerce	http	http_www	https	https_www	country	zone
+264	CA-035	amzn.to	False	False	True	True	True	True	SSLCertVerificationError	CA	CA
+274	CA-067	iga.net	False	False	True	True	True	True	True	CA	CA
+343	US-048	mo.gov	False	True	False	True	True	True	True	US	US
+367	US-093	state.pa.us	False	True	False	ConnectError	True	ConnectError	SSLError	US	US
+368	US-094	ky.gov	False	True	False	True	True	SSLError	SSLError	US	US

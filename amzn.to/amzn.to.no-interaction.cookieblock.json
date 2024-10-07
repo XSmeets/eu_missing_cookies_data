@@ -1,0 +1,1238 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333043250,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731011443.249207,
+                        "expiry": 2678400.24920702,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043249
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043269,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733517043.267527,
+                        "expiry": 5184000.267527103,
+                        "value": "5692257646664668509",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043268
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043076,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736109043.074447,
+                        "expiry": 7776000.074446917,
+                        "value": "n2Gp1fcx9HDJRsmAbEhzPtr8H5EuxaVxYgLMV7JD01wXYAHS3eTpRIVDGT8t5veUweyvzlOT68PAN54Lq6NFZNGZyovClgMOWIfr_nt1Gvk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043075
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.088131905,
+                        "value": "n2Gp1fcx9HDJRsmAbEhzPtr8H5EuxaVxYgLMV7JD01wXYAHS3eTpRIVDGT8t5veUweyvzlOT68PAN54Lq6NFZNGZyovClgMOWIfr_nt1Gvk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.504503965,
+                        "value": "n2Gp1fcx9HDJRsmAbEhzPtr8H5EuxaVxYgLMV7JD01wXYAHS3eTpRIVDGT8t5veUweyvzlOT68PAN54Lq6NFZNGZyovClgMOWIfr_nt1Gvk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.505633116,
+                        "value": "n2Gp1fcx9HDJRsmAbEhzPtr8H5EuxaVxYgLMV7JD01wXYAHS3eTpRIVDGT8t5veUweyvzlOT68PAN54Lq6NFZNGZyovClgMOWIfr_nt1Gvk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043508
+                    }
+                ]
+            },
+            "anj": {
+                "name": "anj",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043090,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736109043.088176,
+                        "expiry": 7776000.088176012,
+                        "value": "dTM7k!M4/YF7/.XF']wIg2IlisyL][!]tbPl1M]o$IyEVU[X)=a^5RBasCmj?68`YAb2G(>1Vxjczx##77pjv!_6-zQEVk`!<f#Yu(K)r",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043088
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043077,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762893043.074499,
+                        "expiry": 34560000.07449889,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043076
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08819103,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043090
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.504703045,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.50651598,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043509
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043077,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736109043.07452,
+                        "expiry": 7776000.074520111,
+                        "value": "1615366098602541089",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.088213921,
+                        "value": "1615366098602541089",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043090
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.5047540665,
+                        "value": "1615366098602541089",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.50703907,
+                        "value": "1615366098602541089",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043509
+                    }
+                ]
+            }
+        }
+    },
+    "ads.stickyadstv.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".ads.stickyadstv.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730925043.784718,
+                        "expiry": 2592000.7847180367,
+                        "value": "2f2c2e2cce345c4716d5f65561023d5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043785
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.804657936,
+                        "value": "2f2c2e2cce345c4716d5f65561023d5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043805
+                    }
+                ]
+            },
+            "uid-bp-30833": {
+                "name": "uid-bp-30833",
+                "domain": ".ads.stickyadstv.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043787,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729542643.784758,
+                        "expiry": 1209600.784758091,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043786
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1209600.8047139645,
+                        "value": "wVe9LTSpRoGGpKta_POkUw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043805
+                    }
+                ]
+            }
+        }
+    },
+    "agkn.com": {
+        "/": {
+            "ab": {
+                "name": "ab",
+                "domain": ".agkn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043666,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.66441,
+                        "expiry": 31536000.664410114,
+                        "value": "0001%3ArzPPeB%2BQSfDtbcnNntVU%2FvEzMw%2BYBSDc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043664
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333042782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1751401842.78012,
+                        "expiry": 23068800.780119896,
+                        "value": "AxhsPSOec09XnYhnUT_d0DU|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333042781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23068800.900034904,
+                        "value": "AxhsPSOec09XnYhnUT_d0DU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333042904
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333042905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762893042.900221,
+                        "expiry": 34560000.90022111,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333042904
+                    }
+                ]
+            }
+        }
+    },
+    "amazon.com": {
+        "/": {
+            "i18n-prefs": {
+                "name": "i18n-prefs",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728333039750,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759869039.743977,
+                        "expiry": 31536000.74397707,
+                        "value": "USD",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039748
+                    }
+                ]
+            },
+            "session-id-time": {
+                "name": "session-id-time",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728333039748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869039.74394,
+                        "expiry": 31536000.743940115,
+                        "value": "2082787201l",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039746
+                    }
+                ]
+            },
+            "session-id": {
+                "name": "session-id",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728333039746,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869039.743843,
+                        "expiry": 31536000.74384308,
+                        "value": "131-6973146-5626733",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039744
+                    }
+                ]
+            },
+            "session-token": {
+                "name": "session-token",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333044040,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.037463,
+                        "expiry": 31535999.03746295,
+                        "value": "KOixfwXlbZUY7bn12OKhDFK8wCz4E6PCfaMXphd5rfBlNNCSrBAtHaWqwxynVDVdegDfADv47fABiVtAtyQlRi5gByhkP6efjIG+DpC3x8IQdBam4Asa798K4098TYW58/pTnraZpukSH3kuV+NnNZqexL1WpMUswfJ5u+k+g/Qk49irFdClgWbo58MngEDBwMs044mDwxOMAQ48wtAOUMkY9OGP9JAHwXcmO5OAZ3iiNTDmuBfVcFNjr9LnxfeAkGKu8STHvBbYcMXPoyqjHXCtvYPFY2frAGhYu32sQnDGBLGGrmjRLGZ6BRbTfzjePvWclV8ANY9ootUURyLpdPaPOkWP3Nn6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333044038
+                    }
+                ]
+            },
+            "skin": {
+                "name": "skin",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728333039753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "noskin",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039752
+                    }
+                ]
+            },
+            "sp-cdn": {
+                "name": "sp-cdn",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333039752,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869039.744008,
+                        "expiry": 31536000.744008064,
+                        "value": "\"L5Z9:NL\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039751
+                    }
+                ]
+            },
+            "ubid-main": {
+                "name": "ubid-main",
+                "domain": ".amazon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728333040506,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869040.504724,
+                        "expiry": 31536000.504724026,
+                        "value": "132-8290018-3324129",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333040505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.574035883,
+                        "value": "132-8290018-3324129",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333040574
+                    }
+                ]
+            },
+            "csm-hit": {
+                "name": "csm-hit",
+                "domain": "www.amazon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333039922,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1758573039,
+                        "expiry": 30240000,
+                        "value": "tb:s-CGTEDK41MKGS2DAY51K5|1728333039918&t:1728333039919",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039920
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30240000,
+                        "value": "tb:s-CGTEDK41MKGS2DAY51K5|1728333039918&t:1728333040294&adb:adblk_no",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333040295
+                    }
+                ]
+            },
+            "csm-sid": {
+                "name": "csm-sid",
+                "domain": "www.amazon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728333034961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1730699804,
+                        "expiry": 2366770,
+                        "value": "868-6707337-7566410",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333034955
+                    }
+                ]
+            },
+            "x-amz-captcha-1": {
+                "name": "x-amz-captcha-1",
+                "domain": "www.amazon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333039508,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759869039.496752,
+                        "expiry": 31536000.496752024,
+                        "value": "1728340239363051",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039497
+                    }
+                ]
+            },
+            "x-amz-captcha-2": {
+                "name": "x-amz-captcha-2",
+                "domain": "www.amazon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333039510,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759869039.496845,
+                        "expiry": 31536000.496845007,
+                        "value": "R5yywwLdu77CO9xmafLYPQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728333039509
+                    }
+                ]
+            }
+        }
+    },
+    "bidswitch.net": {
+        "/": {
+            "c": {
+                "name": "c",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043676,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.671638,
+                        "expiry": 31536000.671638012,
+                        "value": "1728333043",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043675
+                    }
+                ]
+            },
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043673,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.671286,
+                        "expiry": 31536000.671286106,
+                        "value": "6a8cd0b0-9f5c-48f5-9af0-93ea42caecb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.688869,
+                        "value": "6a8cd0b0-9f5c-48f5-9af0-93ea42caecb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043689
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043675,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.671579,
+                        "expiry": 31536000.671578884,
+                        "value": "1728333043",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.688956022,
+                        "value": "1728333043",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043689
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "CMID": {
+                "name": "CMID",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.130216,
+                        "expiry": 31536000.130215883,
+                        "value": "ZwRE81VbLLUAAA.zARYPywAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043130
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.17747903,
+                        "value": "ZwRE81VbLLUAAA.zARYPywAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.4465909,
+                        "value": "ZwRE81VbLLUAAA.zARYPywAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043447
+                    }
+                ]
+            },
+            "CMPRO": {
+                "name": "CMPRO",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736109043.130265,
+                        "expiry": 7776000.1302649975,
+                        "value": "3339",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.177510023,
+                        "value": "3339",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043178
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.446662903,
+                        "value": "3339",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043447
+                    }
+                ]
+            },
+            "CMPS": {
+                "name": "CMPS",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736109043.130247,
+                        "expiry": 7776000.130247116,
+                        "value": "3339",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043132
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043305,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1743885043.303668,
+                        "expiry": 15552000.303668022,
+                        "value": "03289331412001933913360049032962026112",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.340852976,
+                        "value": "03289331412001933913360049032962026112",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043343
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043443,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762029043.441358,
+                        "expiry": 33696000.44135809,
+                        "value": "AHWqTUnLnlNiaHgMhJ9ghV4I1t69SHkSexi_cveIiH8EnSCSm2XDUBcKDhuTQjxeRDA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043442
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043397,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728333943.396024,
+                        "expiry": 900.3960239887238,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043396
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043342,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1743885043.340777,
+                        "expiry": 15552000.34077692,
+                        "value": "03289331412001933913360049032962026112",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043341
+                    }
+                ]
+            }
+        }
+    },
+    "gumgum.com": {
+        "/": {
+            "vst": {
+                "name": "vst",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333044032,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869044.030637,
+                        "expiry": 31536000.030637026,
+                        "value": "e_b92e458f-8248-48da-9037-d3d02cb0890d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333044031
+                    }
+                ]
+            }
+        }
+    },
+    "ispot.tv": {
+        "/": {
+            "pt": {
+                "name": "pt",
+                "domain": ".ispot.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043926,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762893043.924959,
+                        "expiry": 34560000.924958944,
+                        "value": "v2:e51f1d0bcfed227394278c89aa0602415672b181a30929085e1d05c7a523484a|3dd9e8774436d50ee473986dbb069160f9893a54ff9863be485d2c250a275f8b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043925
+                    }
+                ]
+            }
+        }
+    },
+    "kargo.com": {
+        "/": {
+            "ktcid": {
+                "name": "ktcid",
+                "domain": ".kargo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043478,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.476264,
+                        "expiry": 31536000.476264,
+                        "value": "339e9aa0-0a49-0489-5750-b311b5becdfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043476
+                    }
+                ]
+            }
+        }
+    },
+    "mediarithmics.com": {
+        "/": {
+            "mics_lts": {
+                "name": "mics_lts",
+                "domain": ".mediarithmics.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043534,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.530423,
+                        "expiry": 31536000.530422926,
+                        "value": "1728333043542",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043533
+                    }
+                ]
+            },
+            "mics_uaid": {
+                "name": "mics_uaid",
+                "domain": ".mediarithmics.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043533,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.5304,
+                        "expiry": 31536000.530400038,
+                        "value": "web:1:744d613c-6449-468a-b5c0-6dd336e69aff",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043532
+                    }
+                ]
+            },
+            "mics_vid": {
+                "name": "mics_vid",
+                "domain": ".mediarithmics.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.530344,
+                        "expiry": 31536000.53034401,
+                        "value": "105608221794",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043531
+                    }
+                ]
+            }
+        }
+    },
+    "ninthdecimal.com": {
+        "/": {
+            "ndat": {
+                "name": "ndat",
+                "domain": ".ninthdecimal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333043686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.684531,
+                        "expiry": 31536000.684530973,
+                        "value": "CppFOmcERPM2GgAVVGisAg==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043685
+                    }
+                ]
+            }
+        }
+    },
+    "semasio.net": {
+        "/": {
+            "SEUNCY": {
+                "name": "SEUNCY",
+                "domain": ".semasio.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.988,
+                        "expiry": 31536000.987999916,
+                        "value": "77458FF1DCE2A0CB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043988
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.022245884,
+                        "value": "77458FF1DCE2A0CB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333044023
+                    }
+                ]
+            }
+        }
+    },
+    "serving-sys.com": {
+        "/": {
+            "u2": {
+                "name": "u2",
+                "domain": ".serving-sys.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333043296,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730925000.293397,
+                        "expiry": 2591957.29339695,
+                        "value": "9aeb7a43-c547-4639-a9f9-818f7926a46f4Uz060",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043295
+                    }
+                ]
+            }
+        }
+    },
+    "zeotap.com": {
+        "/": {
+            "zc": {
+                "name": "zc",
+                "domain": ".zeotap.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759869043.733726,
+                        "expiry": 31536000.733726025,
+                        "value": "2e38e885-e8d4-4af2-4763-70a84aa66211",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043734
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.769901037,
+                        "value": "2e38e885-e8d4-4af2-4763-70a84aa66211",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043774
+                    }
+                ]
+            }
+        }
+    },
+    "ads.samba.tv": {
+        "/": {
+            "sambapxid": {
+                "name": "sambapxid",
+                "domain": "ads.samba.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728333043375,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762547443.372493,
+                        "expiry": 34214400.37249303,
+                        "value": "13c764f4a509dfb87",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043373
+                    }
+                ]
+            }
+        }
+    },
+    "bs.serving-sys.com": {
+        "/": {
+            "r1": {
+                "name": "r1",
+                "domain": "bs.serving-sys.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728333043295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728333043_1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728333043294
+                    }
+                ]
+            }
+        }
+    }
+}
