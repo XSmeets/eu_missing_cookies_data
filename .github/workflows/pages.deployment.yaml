@@ -28,6 +28,8 @@ jobs:
         run: rm sites.tsv
       - name: Remove cleanup file
         run: rm cleanup.py
+      - name: Remove requirements.txt
+        run: rm requirements.txt
       - name: Generate index.html
         run: tree -T "EU missing cookies extracted from Cookieblock (in cookie consent project)" -H . -I "index.html" -o index.html
       - name: Upload Pages artifact
